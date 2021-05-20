@@ -1,0 +1,77 @@
+{
+  "events": [
+    {
+      "id": 5928101,
+      "user": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "category": "animal welfare",
+      "organizer": "Adam",
+      "title": "Cat Cabaret",
+      "description": "Yay felines!",
+      "location": "Meow Town",
+      "date": "2019-01-03T21:54:00.000Z",
+      "time": "2:00",
+      "attendees": []
+    },
+    {
+      "id": 8419988,
+      "user": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "category": "animal welfare",
+      "organizer": "Adam",
+      "title": "Kitty Cluster",
+      "description": "Yay cats!",
+      "location": "Catlandia",
+      "date": "2019-01-31T22:09:00.000Z",
+      "time": "7:00",
+      "attendees": []
+    },
+    {
+      "id": 4582797,
+      "user": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "category": "animal welfare",
+      "organizer": "Adam",
+      "title": "Puppy Parade",
+      "description": "Yay pups!",
+      "location": "Puptown ",
+      "date": "2019-02-02T23:27:00.000Z",
+      "time": "1:00",
+      "attendees": []
+    },
+    {
+      "id": 96012,
+      "user": {
+        "id": "abc",
+        "name": "cx"
+      },
+      "category": "BBBB",
+      "title": "NewEvent",
+      "description": "Some Desc",
+      "location": "LL",
+      "date": "2011-05-11T22:00:00.000Z",
+      "time": "7:00",
+      "attendees": []
+    },
+    {
+      "id": 48285,
+      "user": {
+        "id": "abc",
+        "name": "cx"
+      },
+      "category": "BBBB",
+      "title": "安师大发生地方",
+      "description": "大是大非",
+      "location": "asf",
+      "date": "2011-05-17T22:00:00.000Z",
+      "time": "4:00",
+      "attendees": []
+    }
+  ]
+}

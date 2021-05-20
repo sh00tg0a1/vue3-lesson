@@ -3,6 +3,8 @@
         <h1>{{ event.title }}</h1>
         <p>{{ event.time }} on {{ event.date }} @ {{ event.location }} </p>
         <p>{{ event.description }}</p>
+        <h5>Organized by {{ event.user.name }}</h5>
+        <h5>Category: {{ event.category }}</h5>
     </div>
 </template>
 
@@ -24,7 +26,7 @@ export default {
     created() {
         EventService.getEvent(this.id)
             .then(response => {
-                this.event = response.data.res
+                this.event = response.data
 
             })
             .catch(error => {

@@ -38,7 +38,7 @@ export default {
     //   }]
       EventService.getEvents()
       .then(response => {
-        this.events = response.data.res
+        this.events = response.data
       })
       .catch(error => {
         console.log(error)

@@ -27,6 +27,9 @@
     "eslint-plugin-prettier": "^3.3.1",
     "eslint-plugin-vue": "^7.0.0",
     "lodash": "^4.17.21",
-    "prettier": "^2.2.1"
+    "postcss": "^8.2.15",
+    "postcss-modules": "^4.0.0",
+    "prettier": "^2.2.1",
+    "vue3-datepicker": "^0.2.4"
   }
 }
